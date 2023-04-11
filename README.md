@@ -5,10 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23d83a7c&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Kartik+Dixit+(W!1d_Qu4k3);I+am+a+Ethical+Hacker+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation<br>💬 Ask me about Ethical Hacking, Network Security, Cryptography.
-
-# Contact Me:
-:	📧 0dixitkartik@gmail.com
+🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering.<br>
+💬 Ask me about Ethical Hacking, Network Security, Cryptography.<br>
+📧 0dixitkartik@gmail.com
 
 
 ## 🌐 Socials:
@@ -30,7 +29,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kartik-dixit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Latest Blogs
+# 📚 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Day-8 Advent of Cyber 2022 — TryHackMe: Smart Contracts](https://kartik-dixit.medium.com/day-8-advent-of-cyber-2022-tryhackme-smart-contracts-d854ff1d8e46?source=rss-a8f4a2184e0f------2)
 - [Day-7 Advent of Cyber 2022 — TryHackMe: CyberChef](https://kartik-dixit.medium.com/day-7-advent-of-cyber-2022-tryhackme-cyberchef-2cc18a1cdde5?source=rss-a8f4a2184e0f------2)
