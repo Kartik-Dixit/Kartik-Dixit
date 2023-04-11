@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Header Image" src="https://raw.githubusercontent.com/Kartik-Dixit/Kartik-Dixit/blob/e3fc8f4a142ad3e667debab84f7b59a6ac5264d0/assets/Githubheader.png" />
+  <img alt="Header Image" src="https://github.com/Kartik-Dixit/Kartik-Dixit/blob/e3fc8f4a142ad3e667debab84f7b59a6ac5264d0/assets/Githubheader.png" />
 </p>
 
 # 💫 About Me:
