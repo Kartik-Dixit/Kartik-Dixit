@@ -7,6 +7,9 @@
 # 💫 About Me:
 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation<br>💬 Ask me about Ethical Hacking, Network Security, Cryptography.
 
+# Contact Me:
+:	📧 0dixitkartik@gmail.com
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kartik.dixit.7773) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-dixit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kartik-dixit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KartikD42816296) 
