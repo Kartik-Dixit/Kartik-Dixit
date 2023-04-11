@@ -2,6 +2,8 @@
   <img alt="Header Image" src="https://github.com/Kartik-Dixit/Kartik-Dixit/blob/e3fc8f4a142ad3e667debab84f7b59a6ac5264d0/assets/Githubheader.png" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Kartik+Dixit+%22(W!1d_Qu4k3)%22;I+am+a+Ethical+Hacker+)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation<br>💬 Ask me about Ethical Hacking, Network Security, Cryptography.
 
