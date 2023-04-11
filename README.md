@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23d83a7c&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Kartik+Dixit+(W!1d_Qu4k3);I+am+a+Ethical+Hacker+)](https://git.io/typing-svg)
-
 <p align="center">
   <img alt="Header Image" src="https://github.com/Kartik-Dixit/Kartik-Dixit/blob/5d2059ae56c6ff0a4899752ca9bf06a10c8e2b7d/assets/Githubheader.png" />
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23d83a7c&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Kartik+Dixit+(W!1d_Qu4k3);I+am+a+Ethical+Hacker+)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering.<br>
