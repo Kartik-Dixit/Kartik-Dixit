@@ -29,6 +29,14 @@
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Day-8 Advent of Cyber 2022 — TryHackMe: Smart Contracts](https://kartik-dixit.medium.com/day-8-advent-of-cyber-2022-tryhackme-smart-contracts-d854ff1d8e46?source=rss-a8f4a2184e0f------2)
+- [Day-7 Advent of Cyber 2022 — TryHackMe: CyberChef](https://kartik-dixit.medium.com/day-7-advent-of-cyber-2022-tryhackme-cyberchef-2cc18a1cdde5?source=rss-a8f4a2184e0f------2)
+- [Day-6 Advent of Cyber 2022 — TryHackMe: Email Analysis](https://kartik-dixit.medium.com/day-6-advent-of-cyber-2022-tryhackme-email-analysis-7969a51c5199?source=rss-a8f4a2184e0f------2)
+- [Day-5 Advent of Cyber 2022 — TryHackMe: Brute-Forcing](https://kartik-dixit.medium.com/day-5-advent-of-cyber-2022-tryhackme-brute-forcing-bf610617dafc?source=rss-a8f4a2184e0f------2)
+- [Day-4 Advent of Cyber 2022 — TryHackMe: Scanning](https://kartik-dixit.medium.com/day-4-advent-of-cyber-2022-tryhackme-scanning-d2ee23bc6c3c?source=rss-a8f4a2184e0f------2)
+- [Day-3 Advent of Cyber 2022 — TryHackMe: OSINT](https://kartik-dixit.medium.com/day-3-advent-of-cyber-2022-tryhackme-osint-c079cbbea3eb?source=rss-a8f4a2184e0f------2)
+- [Day-2 Advent of Cyber 2022 — TryHackMe](https://kartik-dixit.medium.com/day-2-advent-of-cyber-2022-tryhackme-313ea2550874?source=rss-a8f4a2184e0f------2)
+- [Day-1 Advent of Cyber 2022 — TryHackMe](https://kartik-dixit.medium.com/day-1-advent-of-cyber-2022-tryhackme-f66767d5274e?source=rss-a8f4a2184e0f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
