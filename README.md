@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Header Image" src="https://github.com/Kartik-Dixit/Kartik-Dixit/blob/e3fc8f4a142ad3e667debab84f7b59a6ac5264d0/assets/Githubheader.png" />
+  <img alt="Header Image" src="https://drive.google.com/file/d/1EGmhnUFgPY3acypW8TMLoY5w-Qi0Rurr/view?usp=share_link" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23d83a7c&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Kartik+Dixit+(W!1d_Qu4k3);I+am+a+Ethical+Hacker+)](https://git.io/typing-svg)
