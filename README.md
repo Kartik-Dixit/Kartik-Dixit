@@ -28,6 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=kartik-dixit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Latest Blogs
-<!-- LATEST-BLOG-POST:START -->
-<!-- LATEST-BLOG-POST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
