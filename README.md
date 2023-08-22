@@ -31,6 +31,7 @@
 
 # 📚 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How to prepare for CEHv12 Practical Exam](https://kartik-dixit.medium.com/hello-everyone-my-name-is-kartik-dixit-recently-i-have-successfully-achieved-my-certified-ethical-5da79714e0a0?source=rss-a8f4a2184e0f------2)
 - [Day-8 Advent of Cyber 2022 — TryHackMe: Smart Contracts](https://kartik-dixit.medium.com/day-8-advent-of-cyber-2022-tryhackme-smart-contracts-d854ff1d8e46?source=rss-a8f4a2184e0f------2)
 - [Day-7 Advent of Cyber 2022 — TryHackMe: CyberChef](https://kartik-dixit.medium.com/day-7-advent-of-cyber-2022-tryhackme-cyberchef-2cc18a1cdde5?source=rss-a8f4a2184e0f------2)
 - [Day-6 Advent of Cyber 2022 — TryHackMe: Email Analysis](https://kartik-dixit.medium.com/day-6-advent-of-cyber-2022-tryhackme-email-analysis-7969a51c5199?source=rss-a8f4a2184e0f------2)
